@@ -1,0 +1,9 @@
+names=["mimi","gloria","kess"]
+print(names)
+names.append("suz")
+print(names)
+print(names[0])
+print(names[3])
+print(len(names))
+names.remove("gloria")
+print(names)

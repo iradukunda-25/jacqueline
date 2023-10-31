@@ -1,0 +1,14 @@
+num1=2
+num2=4
+ans=num1*num2
+print(ans)
+colors=["red","white","pink"]
+print(colors)
+colors.append("black")
+print(colors)
+print(colors[0])
+print(colors[2])
+print(len(colors))
+colors.remove("white")
+print(colors)
+print(colors)
